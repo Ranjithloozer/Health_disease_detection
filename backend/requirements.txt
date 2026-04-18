@@ -1,6 +1,9 @@
 fastapi
 uvicorn
+python-multipart
 torch
 torchvision
 pillow
-python-multipart
+numpy
+opencv-python-headless  <-- IDHU DHAAN ROMBA MUKKIYAM
+reportlab
